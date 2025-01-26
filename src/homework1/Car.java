@@ -1,3 +1,5 @@
+package src.homework1;
+
 public class Car {
     private String make; // Марка автомобіля
     private String model; // Модель автомобіля
