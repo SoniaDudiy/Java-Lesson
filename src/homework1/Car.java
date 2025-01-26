@@ -1,10 +1,10 @@
 package src.homework1;
 
 public class Car {
-    private String make; // Марка автомобіля
-    private String model; // Модель автомобіля
-    private int year; // Рік випуску
-    private double mileage; // Пробіг автомобіля
+    private String make;
+    private String model;
+    private int year;
+    private double mileage;
 
     // Конструктор для створення автомобіля
     public Car(String make, String model, int year, double mileage) {
