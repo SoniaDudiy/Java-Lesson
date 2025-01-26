@@ -33,15 +33,15 @@ public class Car {
     // Головний метод для перевірки класу
     public static void main(String[] args) {
         Car myCar1 = new Car("Porsche", "Cayenne", 2018, 30000.0);
-        myCar1.displayInfo(); // Виводить інформацію про автомобіль
+        myCar1.displayInfo();
 
         myCar1.increaseMileage(1500.0); // Збільшує пробіг
-        myCar1.displayInfo(); // Виводить оновлену інформацію
+        myCar1.displayInfo();
 
         Car myCar2 = new Car("Toyota", "RAV4", 2021, 10000.0);
-        myCar2.displayInfo(); // Виводить інформацію про автомобіль
+        myCar2.displayInfo();
 
-        myCar2.increaseMileage(700.0); // Збільшує пробіг
-        myCar2.displayInfo(); // Виводить оновлену інформацію
+        myCar2.increaseMileage(700.0);
+        myCar2.displayInfo();
     }
 }
