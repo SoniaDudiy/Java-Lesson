@@ -1,4 +1,4 @@
-package src.homework2;
+package src.homework3;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package src.homework1;
+package src.homework2;
 
 public class Book {
     private String title;
